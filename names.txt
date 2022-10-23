@@ -6,3 +6,19 @@ panya
 =======
 kunu
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
+kkkkkkkk
+=======
+
+
+
+
+
+
+
+
+
+
+
+pinu pinu
+>>>>>>> Stashed changes
