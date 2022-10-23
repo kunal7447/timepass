@@ -1,3 +1,8 @@
 gbrtgrtbvfvbdfbv
 kunal
 pinu
+<<<<<<< Updated upstream
+panya
+=======
+kunu
+>>>>>>> Stashed changes
